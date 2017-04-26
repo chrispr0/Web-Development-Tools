@@ -1,0 +1,10 @@
+# Web-Development-Tools
+Links and Articles for Web development
+
+
+RESETTING USER AGENT STYLESHEETS
+  1 Create a reset.css file.
+  2 Copy and paste CSS reset rules into the reset.css file.
+  3 Link to reset.css in the HTML file (make sure reset.css is loaded first before other CSS files, otherwise reset.css may reset your custom rules by accident).
+
+Sample Reset CSS: http://meyerweb.com/eric/tools/css/reset/
