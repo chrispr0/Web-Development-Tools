@@ -8,3 +8,21 @@ RESETTING USER AGENT STYLESHEETS
   3 Link to reset.css in the HTML file (make sure reset.css is loaded first before other CSS files, otherwise reset.css may reset your custom rules by accident).
 
 Sample Reset CSS: http://meyerweb.com/eric/tools/css/reset/
+
+
+BROWSER SUPPORT
+  http://caniuse.com/ - up-to-date record of CSS properties across many versions of many browsers
+  http://pleeease.io/play/ - Tool to identify exactly which CSS properties need vendor prefixes
+  
+VENDOR GLOSSORY
+  https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+  
+ POLYFILLS
+  One example of a polyfill is Modernizr. To use Modernizr:
+    Navigate to the website (https://modernizr.com/) and click "Download."
+    Click the + next to any features you want to polyfill.
+    Click "Build."
+    Click "Download" next to the "Build" option in the resulting pop-up. This will prompt you to download a JavaScript file (the polyfill code).
+    Place the downloaded .js file (JavaScript file) into the corresponding folder in your website's directory.
+    Link the JavaScript file using a <source> tag in your index.html file.
+    Use CSS to target elements that have the detected feature using .feature-name. To target elements that don't have the detected feature use .no-feature-name. The code feature-name is intended to represent the actual CSS feature.
