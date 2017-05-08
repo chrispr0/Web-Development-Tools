@@ -26,3 +26,11 @@ VENDOR GLOSSORY
     Place the downloaded .js file (JavaScript file) into the corresponding folder in your website's directory.
     Link the JavaScript file using a <source> tag in your index.html file.
     Use CSS to target elements that have the detected feature using .feature-name. To target elements that don't have the detected feature use .no-feature-name. The code feature-name is intended to represent the actual CSS feature.
+
+
+
+
+FLEXBOX 
+  Games
+    http://flexboxzombies.com/courses/enrolled/139425
+    https://flexboxfroggy.com
