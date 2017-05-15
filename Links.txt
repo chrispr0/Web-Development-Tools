@@ -47,3 +47,11 @@ FLEXBOX
 
 SEMANTIC HTML ELEMENTS
   https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+  
+ACCESSABILTY 
+  ARIA Rules - https://w3c.github.io/using-aria/
+  
+
+BOOTSTRAP
+  http://getbootstrap.com/css/
+  http://getbootstrap.com/getting-started/
