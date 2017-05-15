@@ -14,8 +14,10 @@ BROWSER SUPPORT
   http://caniuse.com/ - up-to-date record of CSS properties across many versions of many browsers
   http://pleeease.io/play/ - Tool to identify exactly which CSS properties need vendor prefixes
   
+  
 VENDOR GLOSSORY
   https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+  
   
  POLYFILLS
   One example of a polyfill is Modernizr. To use Modernizr:
@@ -26,8 +28,6 @@ VENDOR GLOSSORY
     Place the downloaded .js file (JavaScript file) into the corresponding folder in your website's directory.
     Link the JavaScript file using a <source> tag in your index.html file.
     Use CSS to target elements that have the detected feature using .feature-name. To target elements that don't have the detected feature use .no-feature-name. The code feature-name is intended to represent the actual CSS feature.
-
-
 
 
 FLEXBOX 
@@ -44,3 +44,6 @@ FLEXBOX
     https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
  
+
+SEMANTIC HTML ELEMENTS
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element
