@@ -60,3 +60,10 @@ BOOTSTRAP
 JAVASCRIPT
   https://developer.mozilla.org/en-US/docs/Web/JavaScript
   https://www.codecademy.com/articles/fwd-js-vars-math
+  
+  
+JQUERY 
+  https://api.jquery.com/
+  http://jquery.com/download/
+  
+  
